@@ -1,4 +1,7 @@
-{{{PLEDGE}}}
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+The Berneout Pledge 1e
 
 Contributors to projects published under free-of-charge public
 licenses, or "free public projects", share specific expectations
@@ -23,8 +26,27 @@ intellectual property, and how they gave permission to contribute it.
 This pledge applies to all the contributions I offer, so long as I
 make this pledge available at:
 
-https://github.com/{{{GITHUB_USER_NAME}}}/berneout-pledge/
+https://github.com/rohieb/berneout-pledge/
 
-Signed: {{{SIGNATURE}}}
-        @{{{GITHUB_USER_NAME}}}
-        {{{TIMESTAMP}}}
+Signed: Roland Hieber
+        @rohieb
+        2016-09-24T00:30+00:00
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCgAGBQJX5ckuAAoJELJBPGbdLD/qnQgP/07HeuNubW/e3AViKu/XcHO1
+mleKE1Tjb+k/qeJFkvz1NBJnJ4tIhjmaJMv8vLQcPj8JjzdcQFsHRmXXHguptuxq
+xNkcAzGi8Js710694+VhYC2i5mhkNxXLSBg9D4SFOZFwRaOmpKCoH+02JQD2L431
+1YT4aVimJjI0leh2cRG5Icn+//qaFuEnLDYMCDAYtKHPeQ+MRW6ZgJhv0hj2UN5s
++8j/29/sDf4LdPE3XlUtwJopSVdnEoygV0z7WyVDCIDn8Rd04QDesoh8Paapurhe
+72JM+efPGlPWUo8vFvxImfHKnyTgzcdcfr/i7umlUJU74QAUCvTIeRWA7SjUo9w5
+dBUvJAwRKlOcZWOq0Pq/xgyu6NpvYzUzIV+RpodpBvbRSi4vVpdfUzyd+RqVhcF0
+eNj1oMNQ0sSg5OvV4/frpqtiYul/lQxUQ3fWNBpB+rOx7pmTgP+refG13XAUoGYl
+9mewZm1RqEEVpYLp0kFtpUYrMgoCFu2upDDXPjUWvr367ujH45pHPpj2uAXPMb5v
+mdYtOHi+t7qJ+9OHRLRdEMwE5/H31xOwTcONMl68HRMhwB1ueDBIOnXzzrGCeKyM
+SJLMWrvknokzCezVdqgL10wftaYNRPmAPoRQnKv8a5V0eKF/l7+QC+dMbSMkpkRo
+7wGUixXu1KpUwUjCej2y
+=AyhA
+-----END PGP SIGNATURE-----
